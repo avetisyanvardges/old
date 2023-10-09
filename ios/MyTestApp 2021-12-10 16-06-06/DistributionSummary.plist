@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Mapllo.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>AF87FDEAFB6D3AA1FEB08400A8F9C9EC7D0C4199</string>
+				<key>dateExpires</key>
+				<string>10.12.22</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>AF87FDEAFB6D3AA1FEB08400A8F9C9EC7D0C4199</string>
+						<key>dateExpires</key>
+						<string>10.12.22</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>OpenSSL.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>V4UGC5WWR9</string>
+						<key>name</key>
+						<string>Karen Mnatsakanyan</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.1.180</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>V4UGC5WWR9.com.prod.mapllo</string>
+				<key>aps-environment</key>
+				<string>development</string>
+				<key>com.apple.developer.applesignin</key>
+				<array>
+					<string>Default</string>
+				</array>
+				<key>com.apple.developer.networking.vpn.api</key>
+				<array>
+					<string>allow-vpn</string>
+				</array>
+				<key>com.apple.developer.team-identifier</key>
+				<string>V4UGC5WWR9</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>Mapllo.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>f9a04034-ccab-499e-a2ec-bc6f582003db</string>
+				<key>dateExpires</key>
+				<string>10.12.22</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: com.prod.mapllo</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>V4UGC5WWR9</string>
+				<key>name</key>
+				<string>Karen Mnatsakanyan</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.15</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "164202578941",
+    "project_id": "mapllo",
+    "storage_bucket": "mapllo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164202578941:android:32696ba0908cc6810b4f94",
+        "android_client_info": {
+          "package_name": "com.production.mapllo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164202578941-hh87bc870m4iq487or7qrd1btjvh5htb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.production.mapllo",
+            "certificate_hash": "b53d2a9eede08e9b009bc33b13396990e13fc50b"
+          }
+        },
+        {
+          "client_id": "164202578941-o7597gmb56cifgi0k6nptg5sbss6jng5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaiip-qTS60AYI-3AD58MwQGBirf1z_1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164202578941-i3s40j7eo4sei0cph90rp1hr5nt9jgfi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "164202578941-7af8gei368tcsmel0bc17386s7sln9cl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.prod.mapllo",
+                "app_store_id": "1579691867"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

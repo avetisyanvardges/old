@@ -1,0 +1,74 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Toast component should render Toast component 1`] = `
+<View
+  accessible={true}
+  collapsable={false}
+  focusable={false}
+  nativeID="animatedComponent"
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignSelf": "center",
+      "backgroundColor": undefined,
+      "borderRadius": 5,
+      "elevation": 3,
+      "justifyContent": "center",
+      "left": 0,
+      "minHeight": 70,
+      "opacity": 1,
+      "padding": 10,
+      "paddingTop": 30,
+      "position": "absolute",
+      "right": 0,
+      "shadowColor": "#444444",
+      "shadowOffset": Object {
+        "height": 1,
+        "width": 0,
+      },
+      "shadowOpacity": 0.22,
+      "shadowRadius": 2.22,
+      "top": 0,
+      "zIndex": 1000,
+    }
+  }
+>
+  <Text
+    style={
+      Array [
+        Object {
+          "color": undefined,
+          "fontSize": 14,
+        },
+        Object {
+          "color": undefined,
+          "fontSize": 16,
+          "fontWeight": "bold",
+        },
+      ]
+    }
+  />
+  <Text
+    style={
+      Array [
+        Object {
+          "color": undefined,
+          "fontSize": 14,
+        },
+        Object {
+          "color": undefined,
+          "marginTop": 5,
+        },
+      ]
+    }
+  >
+     
+  </Text>
+</View>
+`;

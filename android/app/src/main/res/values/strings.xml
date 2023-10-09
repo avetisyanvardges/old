@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Mapllo</string>
+    <string name="server_client_id">599064016739-b7hi4etus7p3t07k2lvgrgp96kj181lq.apps.googleusercontent.com</string>
+    <string name="facebook_app_id">1747666212039359</string>
+    <string name="fb_login_protocol_scheme">fb1747666212039359</string>
+</resources>

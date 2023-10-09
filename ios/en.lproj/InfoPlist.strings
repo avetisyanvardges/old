@@ -1,0 +1,12 @@
+/* 
+  InfoPlist.strings
+  MyTestApp
+
+  Created by admin on 22.07.2021.
+  
+*/
+NSCameraUsageDescription = "The app requires access to the camera. to take a photo in it for an event or profile.";
+NSLocationAlwaysAndWhenInUseUsageDescription = "This is necessary for some mapllo functions to work, individual content selection, assistance in finding places, etc. This parameter can always be changed later in the phone settings.";
+NSLocationWhenInUseUsageDescription = "This is necessary for some mapllo functions to work, individual content selection, assistance in finding places, etc. This parameter can always be changed later in the phone settings.";
+NSPhotoLibraryAddUsageDescription = "The app requires access to your photo library to select a photo, add and update your profile or event picture.";
+NSPhotoLibraryUsageDescription = "The app requires access to your photo library to select a photo, add and update your profile or event picture.";

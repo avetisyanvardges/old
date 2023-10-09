@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MyTestApp.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>DE781F74AB82CE8978BC9C948EE4D7EBF5186F96</string>
+				<key>dateExpires</key>
+				<string>19.10.2021</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>V4UGC5WWR9.com.mapllo</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.applesignin</key>
+				<array>
+					<string>Default</string>
+				</array>
+				<key>com.apple.developer.team-identifier</key>
+				<string>V4UGC5WWR9</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>MyTestApp.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>23056835-192d-4000-9ada-e35996536496</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.mapllo</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>V4UGC5WWR9</string>
+				<key>name</key>
+				<string>Karen Mnatsakanyan</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
